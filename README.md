@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Python and Data Visualizations
 - 💞️ I’m looking to collaborate on anything data-related
-- 📫 How to reach me here
+- 📫 You can reach me right here
 
 <!---
 DGreenidge/DGreenidge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
